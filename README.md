@@ -52,27 +52,27 @@ As métricas abaixo consideram exclusivamente a classe positiva (fraudes).
 
 - Regressão Logística
 
-Precision - 6,12%
+Precision - 6%
 
-Recall - 91,84%
+Recall - 92%
 
-F1-score - 11,47%
+F1-score - 11%
 
 - Random Forest
 
-Precision - 96,10% 
+Precision - 96% 
 
-Recall - 75,51%
+Recall - 76%
 
-F1-score - 84,57%
+F1-score - 85%
 
 - XGBoost
 
-Precision - 55,56%
+Precision - 56%
 
-Recall - 86,73%
+Recall - 87%
 
-F1-score - 67,73%
+F1-score - 68%
 
 - XGBoost Otimizado
 
