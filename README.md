@@ -142,3 +142,11 @@ XGBoost
 # Fonte dos dados
 
 Dataset: [Credit Card Fraud Detection](https://storage.googleapis.com/download.tensorflow.org/data/creditcard.csv)
+
+## Notebook
+
+Acesse o notebook completo com o código, análises exploratórias, treinamento dos modelos e avaliação dos resultados:
+
+📓 [Detecção de Fraudes em Transações com Cartão de Crédito] (https://colab.research.google.com/drive/1GfG6G12-YjdzsieQM1yK4IvjLyForx-b?usp=sharing)
+
+[📓 Acessar notebook](deteccao_fraudes_transacoes_vf.ipynb)
