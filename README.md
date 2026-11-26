@@ -50,37 +50,12 @@ Posteriormente, foi realizada uma otimização do limiar de decisão do XGBoost,
 
 As métricas abaixo consideram exclusivamente a classe positiva (fraudes).
 
-- Regressão Logística
-
-Precision - 6%
-
-Recall - 92%
-
-F1-score - 11%
-
-- Random Forest
-
-Precision - 96% 
-
-Recall - 76%
-
-F1-score - 85%
-
-- XGBoost
-
-Precision - 56%
-
-Recall - 87%
-
-F1-score - 68%
-
-- XGBoost Otimizado
-
-Precision - 85,42%
-
-Recall - 83,67%
-
-F1-score - 84,54%
+|index|Modelo|Precision|Recall|F1-score|
+|---|---|---|---|---|
+|0|Regressão Logística|6\.12%|91\.84%|11\.47%|
+|1|Random Forest|96\.1%|75\.51%|84\.57%|
+|2|XGBoost|55\.56%|86\.73%|67\.73%|
+|3|XGBoost Otimizado|85\.42%|83\.67%|84\.54%|
 
 # Interpretação
 
