@@ -149,4 +149,5 @@ Acesse o notebook completo com o código, análises exploratórias, treinamento 
 
 📓 [Detecção de Fraudes em Transações com Cartão de Crédito] (https://colab.research.google.com/drive/1GfG6G12-YjdzsieQM1yK4IvjLyForx-b?usp=sharing)
 
-[📓 Acessar notebook](deteccao_fraudes_transacoes_vf.ipynb)
+
+[📓 Acessar notebook completo](deteccao_fraudes_transacoes_vf.ipynb)
